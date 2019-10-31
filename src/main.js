@@ -14,3 +14,6 @@ new Vue({
   store,
   render: h => h(App),
 }).$mount('#app')
+
+
+console.log('22');
